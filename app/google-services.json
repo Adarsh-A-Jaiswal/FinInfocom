@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464993026958",
+    "project_id": "finlogin-6cb2d",
+    "storage_bucket": "finlogin-6cb2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464993026958:android:d47727c6b05b629114dadf",
+        "android_client_info": {
+          "package_name": "com.finInfocom.finlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464993026958-me5hv77ihf064ndhb7okku5vchjpert1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEwN7uzWJXk2S94FgA9UiT0lnvV42hKkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464993026958-me5hv77ihf064ndhb7okku5vchjpert1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
